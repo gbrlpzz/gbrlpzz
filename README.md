@@ -1,3 +1,3 @@
 polimi \ liminal
 
-manager of intelligent machines
+building software for myself - take what you fancy.
