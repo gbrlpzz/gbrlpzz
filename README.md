@@ -1,3 +1,3 @@
 polimi \ liminal
 
-building software for myself - take what you fancy.
+building software for myself - take what you like.
