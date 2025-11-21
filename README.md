@@ -2,7 +2,7 @@ Latest Release: **An OCI-AHP Prioritisation Engine**
 
 A structured decision-support framework integrating causal modeling with multi-criteria prioritization to resolve complex resource allocation problems.
 
-Check it out @ https://governanceos-oci-ahp-engine-865469251586.us-west1.run.app/
+Check it out @ https://priority-engine-865469251586.us-west1.run.app
 Repo below.
 
 Current domains of focus:
