@@ -7,4 +7,4 @@ Repo below.
 
 Working on: 
 **Open Research Interface**
-A GitHub-native writing environment using an Open Research Index backend for collaborative research, reference management, version control, and shared data/code artifacts.
+Latex writing environment and reference management system using GitHub as a backend for collaborative research, reference management and version control.
