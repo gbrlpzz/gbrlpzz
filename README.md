@@ -1,10 +1,22 @@
-Latest Release: **An OCI-AHP Prioritisation Engine**
+Latest Release: **Forest Change Detection (1985–2023) using Landsat**
 
-A structured decision-support framework integrating causal modeling with multi-criteria prioritization to resolve complex resource allocation problems.
+Open-source Google Earth Engine workflow detecting long-term forest gain/loss and estimating year of regrowth from harmonized Landsat NDVI time-series (30 m), with applications in agricultural land abandonment and ecosystem recovery monitoring.
 
-Check it out @ https://prioritise.gbrlpzz.com
+Repo: https://github.com/gbrlpzz/forest-cover-change
+
+---
+
+Previously:
+
+**An OCI-AHP Prioritisation Engine**  
+A structured decision-support framework integrating causal modeling with multi-criteria prioritization for public resource allocation.  
+More info: https://prioritise.gbrlpzz.com
+
 Repo below.
 
-Working on: 
-**Open Research Interface**
-Latex writing environment and reference management system using GitHub as a backend for collaborative research, reference management and version control.
+---
+
+Working on:
+
+**Open Research Interface**  
+A writing and reference-management pipeline leveraging GitHub for collaborative drafting, bibliographic versioning and publication continuity.
