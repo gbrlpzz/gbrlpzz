@@ -1,4 +1,4 @@
-Latest Release: **Forest Change Detection (1985–2023) using Landsat**
+Latest Release: **Forest Change Detection (1985–2025) using Landsat**
 
 Open-source Google Earth Engine workflow detecting long-term forest gain/loss and estimating year of regrowth from harmonized Landsat NDVI time-series (30 m), with applications in agricultural land abandonment and ecosystem recovery monitoring.
 
