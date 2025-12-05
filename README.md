@@ -1,8 +1,13 @@
-Latest Release: **Forest Change Detection (1985–2025) using Landsat**
+Latest Release: **Vegetation Cover Change Detection via
+NDVI Trend Analysis**
 
-Open-source Google Earth Engine workflow detecting long-term forest gain/loss and estimating year of regrowth from harmonized Landsat NDVI time-series (30 m), with applications in agricultural land abandonment and ecosystem recovery monitoring.
-
-Repo: https://github.com/gbrlpzz/forest-cover-change
+A Google Earth Engine script for detecting 40-year vegetation change
+  using harmonized Landsat time series (1985-2025). Implements 9-class
+  change detection based on NDVI thresholds and linear trend analysis,
+  with epoch tracking for canopy establishment and trajectory projection
+  for biomass accumulation.
+  
+Repo: https://github.com/gbrlpzz/ndvi-vegetation-cover-change
 
 ---
 
