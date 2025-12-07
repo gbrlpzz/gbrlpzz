@@ -17,10 +17,3 @@ A structured decision-support framework integrating causal modeling with multi-c
 More info: https://prioritise.gbrlpzz.com
 
 Repo below.
-
----
-
-Working on:
-
-**Open Research Interface**  
-A writing and reference-management pipeline leveraging GitHub for collaborative drafting, bibliographic versioning and publication continuity.
