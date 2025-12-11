@@ -1,7 +1,8 @@
 Latest Release: 
 
 **Research Agent CLI**
-Research Agent CLI is a command-line tool that autonomously conducts academic research. The agent produces compiled PDFs with full bibliographies, saved to versioned report directories.
+
+An agentic command-line interface toolkit that autonomously conducts academic research. The agent produces compiled PDFs with full bibliographies, saved to versioned report directories.
 
 Repo: https://github.com/gbrlpzz/research-agent-cli
 
