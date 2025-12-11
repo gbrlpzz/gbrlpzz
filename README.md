@@ -5,6 +5,8 @@ Research Agent CLI is a command-line tool that autonomously conducts academic re
 
 Repo: https://github.com/gbrlpzz/research-agent-cli
 
+---
+
 Previously:
 
 **Vegetation Cover Change Detection via
